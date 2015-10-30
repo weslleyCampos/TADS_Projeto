@@ -7,8 +7,8 @@ package telas;
 
 import DAO.DaoEntrada;
 import java.awt.Color;
-//import java.sql.Connection;
-//import java.sql.PreparedStatement;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.text.ParseException;
 import java.util.ArrayList;
